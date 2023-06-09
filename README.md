@@ -1,6 +1,6 @@
-# Color Conversion
-
-## AIM
+## Ex-03 Color Conversion
+### Date : 29/03/2023
+### AIM
 
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -31,7 +31,7 @@ Split and merge the image using cv2.split and cv2.merge commands.
 End the program and close the output image windows.
 
 
-## Program
+### Program
 
 ```python
 
@@ -116,7 +116,7 @@ cv2.destoryAllWindows()
 ```
 
 
-## Output:
+### Output:
 
 ### i) BGR and RGB to HSV and GRAY
 
@@ -144,7 +144,7 @@ cv2.destoryAllWindows()
 
 
 
-## Result:
+### Result:
 
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
 
