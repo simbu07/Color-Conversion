@@ -1,5 +1,5 @@
 ## Ex-03 Color Conversion
-### Date : 29/03/2023
+
 ### AIM
 
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
